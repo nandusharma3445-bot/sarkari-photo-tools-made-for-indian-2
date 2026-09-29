@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Photo Tools - Made for Indian Exams",
+  "description": "Sarkari Photo Tools for Indian exam photo resizing (20KB), signature compressor (10KB), 35x45mm passport photo maker, and Aadhaar card PDF merger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
